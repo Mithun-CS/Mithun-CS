@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Mithun 👋
 
-<!--
-**Mithun-CS/Mithun-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS & AI @ University of Alberta ('30) | Full-Stack & Systems Engineering**
 
-Here are some ideas to get you started:
+I build scalable full-stack web applications, real-time infrastructure monitors, and AI-powered analytics platforms. I am actively seeking Summer 2027 Software Engineering internships.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Technical Arsenal
+- **Languages:** Python, TypeScript, Go, JavaScript, SQL, HTML/CSS
+- **Web & Frameworks:** Next.js (App Router), React, Node.js, Tailwind CSS, SWR, TanStack Query
+- **AI & Databases:** OpenAI API, Supabase, PostgreSQL, Drizzle ORM, Vector Databases
+- **Developer Tools:** Git, GitHub, Cursor, Docker, WebSockets, Linux/Bash
+
+### 🔭 Current Focus & Engineering
+- **Vertex Control:** Engineering a real-time feature-flag control plane capable of sub-50ms WebSocket fan-out updates using Go and an in-memory cache.
+- **Vantage Analytics:** Scaling an AI-powered financial auditing platform that batches raw transactions through GPT-4o-mini with structured JSON validation.
+- **Pulse Infrastructure Monitor:** Architecting a live sensor dashboard using Supabase Realtime WebSockets and maintaining rolling windows for Recharts visualization.
+
+### 📫 Let's Connect
+- [LinkedIn Profile](https://www.linkedin.com/in/mithun-cs-ai)
